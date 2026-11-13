@@ -1,13 +1,13 @@
 # LinkedIn-Posts: Wenn es schwierig wird
 
-Stand: 13. November 2026
+Stand: 13. November 2026, aktualisiert nach Freigabe von Post 2
 
 ## Übersicht
 
 | Nr. | Post | Blog-Artikel | Status | Link für den ersten Kommentar |
 | :-- | :-- | :-- | :-- | :-- |
 | 1 | Leseexemplare | online seit 5.11. | **sofort postbar** | https://mind-sales.blog/2026/11/05/newsletter-3-leseexemplare/ |
-| 2 | Die beste Antwort auf die falsche Frage | wartet auf Freigabe | posten, sobald der Artikel online ist | Link zum Artikel, sobald veröffentlicht |
+| 2 | Die beste Antwort auf die falsche Frage | erscheint Do, 19.11.2026, 8:00 Uhr | **am 19.11. posten** | https://mind-sales.blog/2026/11/19/die-beste-antwort-auf-die-falsche-frage/ |
 | 3 bis 8 | Sechs eigenständige Impulse | ohne eigenen Artikel | frei einsetzbar | https://mind-sales.blog/das-buch/ |
 | 9 bis 16 | Texte zu den Artikeln aus der Warteschlange | in Vorbereitung | folgen mit jeder Freigabe | Link zum jeweiligen Artikel |
 
@@ -74,7 +74,9 @@ Welche Ausschreibung bearbeitest du gerade vor allem am Schreibtisch statt im Ge
 #Vertrieb #Ausschreibung #EnterpriseSales
 ```
 
-**Erster Kommentar:** Link zum Artikel, sobald er veröffentlicht ist.
+**Posten:** Donnerstag, 19. November 2026, ab 8:00 Uhr, wenn der Artikel online ist.
+
+**Erster Kommentar:** Den ganzen Artikel findest du hier: https://mind-sales.blog/2026/11/19/die-beste-antwort-auf-die-falsche-frage/
 
 ---
 
