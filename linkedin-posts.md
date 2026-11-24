@@ -1,19 +1,20 @@
 # LinkedIn-Posts: Wenn es schwierig wird
 
-Stand: 13. November 2026, aktualisiert nach Freigabe von Post 2
+Stand: 24. November 2026
 
 ## Übersicht
 
 | Nr. | Post | Blog-Artikel | Status | Link für den ersten Kommentar |
 | :-- | :-- | :-- | :-- | :-- |
 | 1 | Leseexemplare | online seit 5.11. | **sofort postbar** | https://mind-sales.blog/2026/11/05/newsletter-3-leseexemplare/ |
-| 2 | Die beste Antwort auf die falsche Frage | erscheint Do, 19.11.2026, 8:00 Uhr | **am 19.11. posten** | https://mind-sales.blog/2026/11/19/die-beste-antwort-auf-die-falsche-frage/ |
+| 2 | Die beste Antwort auf die falsche Frage | online seit 19.11. | gepostet am 24.11. | https://mind-sales.blog/2026/11/19/die-beste-antwort-auf-die-falsche-frage/ |
 | 3 bis 8 | Sechs eigenständige Impulse | ohne eigenen Artikel | frei einsetzbar | https://mind-sales.blog/das-buch/ |
 | 9 bis 16 | Texte zu den Artikeln aus der Warteschlange | in Vorbereitung | folgen mit jeder Freigabe | Link zum jeweiligen Artikel |
+| 17 bis 22 | Sechs neue Impulse (Vertrauen, Präsenz, Ehrlichkeit, Werkstatt, Business Case, Partnerschaft) | ohne eigenen Artikel | frei einsetzbar | https://mind-sales.blog/das-buch/ |
 
 **Bild für alle Posts:** `bilder/linkedin-visual-hochformat.png`
 
-**Empfohlener Rhythmus:** alle zwei Wochen ein Post, dazwischen gern einer der Impulse 3 bis 8.
+**Empfohlener Rhythmus:** alle zwei Wochen ein Post, dazwischen gern einer der Impulse 3 bis 8 und 17 bis 22.
 
 ---
 
@@ -295,6 +296,194 @@ Diese Texte entstehen zusammen mit der Freigabe des jeweiligen Artikels und werd
 | 14 | Führung beginnt vor dem Titel |
 | 15 | Was die Yogamatte mit Vertrieb zu tun hat |
 | 16 | Mein neues Buch: Wenn es schwierig wird |
+
+---
+
+## 17 · Der Satz, auf den keine Folie eine Antwort hatte
+
+```
+„Ich verstehe, was Ihre Lösung kann. Aber ich weiß noch nicht, ob ich Ihnen vertraue, wenn es schwierig wird.“
+
+Das hat mir ein Kunde gesagt. Mitten in einem großen Deal.
+
+Ich hatte für fast jede Frage eine Antwort vorbereitet. Für diese nicht.
+
+Denn sie zielte nicht auf das Produkt. Sie zielte auf mich.
+
+Was passiert, wenn das Projekt hakt? Wenn der Zeitplan reißt? Wenn intern jemand fragt, wer diese Entscheidung zu verantworten hat?
+
+Kein Kunde kauft nur eine Lösung. Er kauft die Gewissheit, dass ihn jemand nicht allein lässt.
+
+Diese Gewissheit entsteht nicht in der Präsentation. Sie entsteht in kleinen Momenten:
+
+· Wenn du sagst, was deine Lösung nicht kann
+· Wenn du eine schlechte Nachricht früh überbringst
+· Wenn du etwas zusagst und es dann auch hältst
+
+Vertrauen ist kein Kapitel im Sales Playbook. Es ist die Summe dieser Momente.
+
+Welche Frage hat dir ein Kunde gestellt, auf die du keine Folie hattest?
+
+Dieser Satz hat meinem Buch den Titel gegeben: „Wenn es schwierig wird“.
+
+#Vertrauen #EnterpriseSales #B2BVertrieb
+```
+
+---
+
+## 18 · Die zehn Minuten vor dem Termin
+
+```
+Viele wichtige Termine gehen nicht im Meeting verloren.
+
+Sie gehen in den zehn Minuten davor verloren.
+
+Letzte Mails auf dem Weg. Folien noch einmal umgestellt. Der Kopf schon beim nächsten Call. Dann rein in den Raum und sofort funktionieren.
+
+Der Kunde merkt das. Nicht bewusst, aber er merkt es. Wer innerlich gehetzt ist, hört schlecht zu und redet zu schnell.
+
+Präsenz klingt nach etwas Weichem. Im Vertrieb ist sie ganz handfest: Sie entscheidet, ob du das eine Signal mitbekommst, das den Deal dreht.
+
+Was vor wichtigen Terminen hilft:
+
+· Zwei Minuten nichts lesen, nichts schreiben
+· Ein paar ruhige Atemzüge, länger aus als ein
+· Eine einzige Frage notieren: Was will ich heute verstehen, nicht verkaufen?
+
+Das klingt fast zu einfach. Aber ein ruhiger Atem macht ein ruhiges Gespräch. Und in einem ruhigen Gespräch sagen Kunden Dinge, die sie im Pitch nie sagen würden.
+
+Gelernt habe ich das nicht im Vertriebstraining, sondern auf der Yogamatte.
+
+Wie gehst du in deinen wichtigsten Termin dieser Woche?
+
+Mehr dazu in meinem Buch „Wenn es schwierig wird“, das im Selbstverlag erscheint.
+
+#Präsenz #Verkaufen #Selbstführung
+```
+
+---
+
+## 19 · „Grundsätzlich ja“
+
+```
+In fast jeder Demo gibt es diesen Moment.
+
+Der Kunde fragt: „Kann Ihre Lösung das auch?“
+
+Und die ehrliche Antwort wäre: „Nicht so, wie Sie es sich vorstellen.“
+
+Die Versuchung ist groß, es anders zu sagen. „Grundsätzlich ja.“ „Das ist auf der Roadmap.“ „Das lösen wir im Projekt.“
+
+Kurzfristig rettet das die Demo. Langfristig kostet es genau das, was du eigentlich verkaufst: Glaubwürdigkeit.
+
+In der Yoga-Philosophie heißt das Prinzip Satya, Wahrhaftigkeit. Es gehört zu den ethischen Grundlagen, noch vor jeder Übung auf der Matte.
+
+Im Vertrieb übersetze ich das so:
+
+· Sag, was die Lösung heute kann, nicht was sie irgendwann können soll
+· Benenne Lücken selbst, bevor der Wettbewerb es tut
+· Versprich nichts, was dein Team nicht halten kann
+
+Ein ehrliches „Nein“ beendet selten ein Gespräch. Meist hört der Kunde danach aufmerksamer zu. Weil er weiß, dass dein nächstes „Ja“ etwas wert ist.
+
+Wann hast du zuletzt „grundsätzlich ja“ gesagt, obwohl du „nein“ meintest?
+
+Aus meinem Buch „Wenn es schwierig wird“, das im Selbstverlag erscheint.
+
+#Ethik #Vertrieb #Vertrauen
+```
+
+---
+
+## 20 · Was ich in der Werkstatt über Vertrieb gelernt habe
+
+```
+Angefangen habe ich nicht im Vertrieb, sondern in einer Werkstatt. Mit einer Schlosserlehre.
+
+Ein Gedanke aus dieser Zeit begleitet mich bis heute: Eine Verbindung muss dort halten, wo später Gewicht auf ihr liegt.
+
+Nicht auf der Werkbank. Nicht bei der Abnahme. Sondern unter Last.
+
+Im Enterprise Sales ist das genauso. In der Präsentation sehen alle Beziehungen gut aus. Ob sie halten, zeigt sich erst später:
+
+· Wenn das Projekt ins Stocken gerät
+· Wenn der Sponsor wechselt
+· Wenn eine Rechnung strittig wird
+
+Wer nur auf den Abschluss hin arbeitet, baut für die Abnahme. Wer an die Last danach denkt, baut anders. Gründlicher. Mit mehr Kontakten im Haus. Mit ehrlicheren Zusagen.
+
+Darum frage ich mich bei jedem großen Deal: Welche Verbindung trägt hier eigentlich? Und hält sie auch, wenn es schwierig wird?
+
+Welche deiner Kundenbeziehungen würde heute eine echte Belastung aushalten?
+
+Dieser Satz steht auch auf der Rückseite meines Buches „Wenn es schwierig wird“.
+
+#Kundenbeziehung #EnterpriseSales #Vertrauen
+```
+
+---
+
+## 21 · Der Business Case allein überzeugt keinen CFO
+
+```
+Ein Business Case überzeugt keinen Finanzvorstand.
+
+Jedenfalls nicht allein.
+
+Es gibt Rechnungen, die sauber, konservativ und gut belegt sind und trotzdem scheitern. Und dünne Rechnungen, die durchgehen.
+
+Der Unterschied liegt selten in der Tabelle. Er liegt darin, wer sie vertritt.
+
+Ein CFO prüft zwei Dinge gleichzeitig: Stimmt die Rechnung? Und versteht der Mensch vor mir, was sie für mein Haus bedeutet?
+
+Die zweite Frage entscheidet oft über die erste.
+
+Was einen Business Case tragfähig macht:
+
+· Die Zahlen stammen vom Kunden, nicht aus deiner Vorlage
+· Du kennst die wackligste Annahme und sprichst sie selbst an
+· Ein Fachbereich beim Kunden steht hinter dem Ergebnis, nicht nur du
+
+Methoden wie MEDDPICC oder Challenger helfen, die richtigen Fragen zu stellen. Die Antwort trägt am Ende ein Mensch. Und dem muss man glauben können.
+
+Was würde der Finanzbereich deines Kunden über die schwächste Annahme in deinem aktuellen Business Case sagen?
+
+Mehr dazu in meinem Buch „Wenn es schwierig wird“.
+
+#BusinessCase #CFO #ValueSelling
+```
+
+---
+
+## 22 · Nach der Unterschrift fängt es an
+
+```
+Im Vertrieb wird bei der Unterschrift gefeiert.
+
+Beim Kunden beginnt in diesem Moment erst die Arbeit.
+
+Und genau da verschwinden viele von uns. Übergabe an das Projektteam, nächster Deal, neues Quartal. Der Kunde merkt das. Und er merkt es sich.
+
+Partnerschaft entsteht nicht im Angebot. Sie entsteht in den Monaten danach, wenn keiner mehr etwas verkaufen muss.
+
+Was dabei konkret hilft:
+
+· Beim Kick-off dabei sein, nicht nur beim Signing
+· Nach 90 Tagen ohne Agenda anrufen und fragen, was nicht gut läuft
+· Probleme lieber vom Kunden hören als aus einer Eskalation
+
+Das kostet Zeit, die in keinem Forecast auftaucht. Aber Erweiterungen, Referenzen und Renewals, die leicht gehen, haben genau hier ihren Ursprung.
+
+Ein Kunde erinnert sich selten an deine Präsentation. Er erinnert sich daran, wer da war, als es gehakt hat.
+
+Wann hast du zuletzt einen Kunden angerufen, ohne etwas zu wollen?
+
+Aus meinem Buch „Wenn es schwierig wird“, das im Selbstverlag erscheint.
+
+#Partnerschaft #CustomerSuccess #B2B
+```
+
+**Erster Kommentar für 17 bis 22:** Mehr zum Buch: https://mind-sales.blog/das-buch/
 
 ---
 
