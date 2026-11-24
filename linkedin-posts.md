@@ -6,11 +6,11 @@ Stand: 24. November 2026
 
 | Nr. | Post | Blog-Artikel | Status | Link für den ersten Kommentar |
 | :-- | :-- | :-- | :-- | :-- |
-| 1 | Leseexemplare | online seit 5.11. | **sofort postbar** | https://mind-sales.blog/2026/11/05/newsletter-3-leseexemplare/ |
+| 1 | Leseexemplare | online seit 5.11. | gepostet | https://mind-sales.blog/2026/11/05/newsletter-3-leseexemplare/ |
 | 2 | Die beste Antwort auf die falsche Frage | online seit 19.11. | gepostet am 24.11. | https://mind-sales.blog/2026/11/19/die-beste-antwort-auf-die-falsche-frage/ |
 | 3 bis 8 | Sechs eigenständige Impulse | ohne eigenen Artikel | frei einsetzbar | https://mind-sales.blog/das-buch/ |
 | 9 bis 16 | Texte zu den Artikeln aus der Warteschlange | in Vorbereitung | folgen mit jeder Freigabe | Link zum jeweiligen Artikel |
-| 17 bis 22 | Sechs neue Impulse (Vertrauen, Präsenz, Ehrlichkeit, Werkstatt, Business Case, Partnerschaft) | ohne eigenen Artikel | frei einsetzbar | https://mind-sales.blog/das-buch/ |
+| 17 bis 22 | Sechs neue Impulse (Zuhören, Präsenz, Ehrlichkeit, Werkstatt, Business Case, Partnerschaft) | ohne eigenen Artikel | frei einsetzbar | https://mind-sales.blog/das-buch/ |
 
 **Bild für alle Posts:** `bilder/linkedin-visual-hochformat.png`
 
@@ -299,34 +299,34 @@ Diese Texte entstehen zusammen mit der Freigabe des jeweiligen Artikels und werd
 
 ---
 
-## 17 · Der Satz, auf den keine Folie eine Antwort hatte
+## 17 · Zuhören ist nicht Warten
 
 ```
-„Ich verstehe, was Ihre Lösung kann. Aber ich weiß noch nicht, ob ich Ihnen vertraue, wenn es schwierig wird.“
+Die meisten von uns hören im Kundengespräch nicht zu.
 
-Das hat mir ein Kunde gesagt. Mitten in einem großen Deal.
+Wir warten nur, bis wir wieder reden dürfen.
 
-Ich hatte für fast jede Frage eine Antwort vorbereitet. Für diese nicht.
+Der Kunde erzählt von seinem Problem, und im Kopf läuft schon die passende Folie. Beim dritten Satz wissen wir, welches Feature wir zeigen. Beim vierten unterbrechen wir.
 
-Denn sie zielte nicht auf das Produkt. Sie zielte auf mich.
+Der Kunde fühlt sich dabei nicht verstanden. Er fühlt sich eingeordnet.
 
-Was passiert, wenn das Projekt hakt? Wenn der Zeitplan reißt? Wenn intern jemand fragt, wer diese Entscheidung zu verantworten hat?
+Echtes Zuhören ist anstrengender. Es heißt, die eigene Antwort eine Weile liegen zu lassen und erst einmal nur verstehen zu wollen.
 
-Kein Kunde kauft nur eine Lösung. Er kauft die Gewissheit, dass ihn jemand nicht allein lässt.
+Drei Dinge, die dabei helfen:
 
-Diese Gewissheit entsteht nicht in der Präsentation. Sie entsteht in kleinen Momenten:
+· Nachfragen, bevor du antwortest: „Was meinen Sie genau mit schwierig?“
+· Mit eigenen Worten zusammenfassen, was du gehört hast, und fragen, ob es stimmt
+· Auf das achten, was nicht gesagt wird: Pausen, Zögern, ein Thema, das fehlt
 
-· Wenn du sagst, was deine Lösung nicht kann
-· Wenn du eine schlechte Nachricht früh überbringst
-· Wenn du etwas zusagst und es dann auch hältst
+Oft kommt erst nach der zweiten Nachfrage der Satz, um den es dem Kunden wirklich geht.
 
-Vertrauen ist kein Kapitel im Sales Playbook. Es ist die Summe dieser Momente.
+Wer so zuhört, braucht später weniger Argumente. Der Kunde findet sich in seinen eigenen Worten wieder.
 
-Welche Frage hat dir ein Kunde gestellt, auf die du keine Folie hattest?
+Wann hast du zuletzt ein Gespräch geführt, in dem der Kunde mehr gesprochen hat als du?
 
-Dieser Satz hat meinem Buch den Titel gegeben: „Wenn es schwierig wird“.
+Mehr dazu in meinem Buch „Wenn es schwierig wird“, das im Selbstverlag erscheint.
 
-#Vertrauen #EnterpriseSales #B2BVertrieb
+#Zuhören #Vertrieb #B2BVertrieb
 ```
 
 ---
